@@ -1,0 +1,4 @@
+p{color:green; font-size:40px; font-family:arial black; text-align:center; border:8px solid brown;  }
+ul li:hover{list-style-type: square; text-transform: capitalize; text-decoration: underline; border:3px solid green; display:inline;}
+body{ background-color: #39c;}
+input:focus { background: yellow; color: lime; }
